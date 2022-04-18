@@ -1,0 +1,73 @@
+[Root]
+Most Recent Package=PMEC
+
+
+[Package|PMEC|Root]
+SubWizProgID=PDWizard.InetCABPkgSubWiz
+BuildFolder=C:\Meus documentos\Faculdade\Projeto PMEC\Simulação\OCX\cabs
+Controls Design-Time Support=Yes
+
+[Package|PMEC|Configure DAO ISAMs]
+Applicable=No
+
+[Package|PMEC|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|PMEC|Files Found]
+
+[Package|PMEC|Files Released]
+
+[Package|PMEC|Missing Dependency Information]
+
+[Package|PMEC|Out-of-Date Dependency Information]
+
+[Package|PMEC|Files Added]
+c:\windows\system\msstkprp.dll=This file is needed for usercontrol design-time support.
+
+[Package|PMEC|Files Removed]
+
+[Package|PMEC|Files In Project]
+C:\Meus documentos\Faculdade\Projeto PMEC\Simulação\OCX\PMEC.ocx=Yes
+C:\WINDOWS\SYSTEM\Msvbvm60.dll=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\MSSTKPRP.DLL=Yes
+C:\WINDOWS\SYSTEM\Msflxgrd.ocx=Yes
+
+[Package|PMEC|Configure Registry Files]
+Applicable=No
+
+[Package|PMEC|Configure Remote Servers]
+Applicable=No
+
+[Package|PMEC|Install Locations]
+
+[Package|PMEC|Configure Shared Files]
+Applicable=
+
+[Package|PMEC|ComponentInfo]
+PMEC.ocx=thiscab
+Msvbvm60.dll=http://activex.microsoft.com/controls/vb6/VBRun60.cab
+OLEAUT32.DLL=http://activex.microsoft.com/controls/vb6/VBRun60.cab
+OLEPRO32.DLL=http://activex.microsoft.com/controls/vb6/VBRun60.cab
+ASYCFILT.DLL=http://activex.microsoft.com/controls/vb6/VBRun60.cab
+STDOLE2.TLB=http://activex.microsoft.com/controls/vb6/VBRun60.cab
+COMCAT.DLL=http://activex.microsoft.com/controls/vb6/VBRun60.cab
+MSSTKPRP.DLL=http://activex.microsoft.com/controls/vb6/MsStkPrp.cab
+Msflxgrd.ocx=http://activex.microsoft.com/controls/vb6/MsFlxGrd.cab
+
+[Package|PMEC|ObjectInfo]
+CT_Pmec=false;false
+
+[Package|PMEC|Package]
+PackageFolder=C:\Meus documentos\Faculdade\Projeto PMEC\Simulação\OCX\cabs
+ProjectFolder=C:\Meus documentos\Faculdade\Projeto PMEC\Simulação
+ServerSideCab=C:\Meus documentos\Faculdade\Projeto PMEC\Simulação\OCX\cabs\PMEC.CAB
+File1=C:\Meus documentos\Faculdade\Projeto PMEC\Simulação\OCX\cabs\PMEC.CAB
+File2=C:\Meus documentos\Faculdade\Projeto PMEC\Simulação\OCX\cabs\PMEC.HTM
+Handler1=PDWizard.WebPostDplySubWiz
+Handler2=PDWizard.FolderDplySubWiz
